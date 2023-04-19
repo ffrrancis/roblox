@@ -13,12 +13,9 @@ local X = Material.Load({
 })
 
 local Y = X.New({
-    Title = "1"
+    Title = "HOME"
 })
 
-local Z = X.New({
-    Title = "2"
-})
 
 local A = Y.Button({
     Text = "Kill All",
